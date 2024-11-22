@@ -1,0 +1,13 @@
+{
+    "name": "Kakashi",
+    "age": 11,
+    "city": "Washington State, WA",
+    "interests": [
+        "Traveling",
+        "Reading",
+        "Basketball",
+        "Driving",
+        "Reading"
+    ],
+    "is_student": true
+}
